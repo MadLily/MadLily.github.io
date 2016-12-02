@@ -1,13 +1,11 @@
-#Thinny - The Infinite's Nymphet
+#Seven Times Have I (Despised My Soul)
 
 
 ----
 
 ###Attention
 
-I'm no longer maintaining this repository.
-
-If you want to add something, feel free to send a pull request, which I'll see if it's okay and merge.
+This site is modified based upon Jekyll Theme developed by Ian Camporez.
 
 ----
 
