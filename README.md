@@ -1,5 +1,5 @@
-# *folio
-A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
+# Seven Times Have I...
+Jing's Personal Website
 
 
 <a href="http://liabogoev.com/-folio">Live Demo</a>
