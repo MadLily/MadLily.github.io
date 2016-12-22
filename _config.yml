@@ -1,61 +1,31 @@
-# Dependencies
-markdown:	kramdown
-# Permalinks
-permalink:	/blog/:title
+# Site settings
+title: *folio
+email: you@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: twitter_username
+github_username:  github_username
 
-# Setup
-title:            Seven Times Have I...
-tagline:          'blog'
-description:      'My personal blog.'
-url:              http://madlily.github.io
-baseurl:          
-commentsystem:    google
-disqus:           example
+# Build settings
+markdown: kramdown
 
-author:
-  name:           Jingying Zhou
-  url:            https://madlily.github.io
+highlighter: pygments
 
-paginate:         5
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
 
-# Custom vars
-icon:             /assets/images/icon.png
-cover:            /assets/images/cover.jpg
 
-social:
-  - icon:         twitter
-    url:          https://twitter.com/BianBianZhou
-    desc:         Follow me on twitter
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
 
-  - icon:         github
-    url:          https://github.com/madlily
-    desc:         Fork me on github
+# Gems
+gems: [jekyll-paginate]
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
-
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
-
-menu:
-  - title:        Home
-    url:          /
-
-  - title:        About
-    url:          /about
-
-copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
-  type_title:     Some rights reserved
-  type_url:       http://creativecommons.org/licenses/by-nc/2.5
-
-parallax:         false
-
-# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:  
-
-# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
-theme_color:       7E9576

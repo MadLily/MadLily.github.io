@@ -1,23 +1,29 @@
 ---
 layout: page
-title: About the site, the author, the life, the universe and everything more.
-permalink: about/
+title: about
+permalink: /about/
 ---
 
-<div class="message">
-  Still working on this page! Meanwhile, stay with this beautiful latin text below.
+<img class="col one right" src="/img/prof_pic.jpg">
+
+<br/>
+Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+
+Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+
+
+<br/>
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
+
+<div class="col three caption">
+	You can even add a little note about which of these is the best way to reach you.
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget neque fringilla, pulvinar odio sit amet, malesuada ligula. Curabitur aliquam tempor nibh vel convallis. Integer erat dolor, convallis nec felis at, gravida volutpat magna. Fusce nec nunc id risus tempus luctus. Integer vehicula ipsum fermentum est lobortis condimentum. Nulla at placerat ipsum, quis mollis dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum a sagittis velit. Etiam non diam quis massa fermentum tristique. Cras porta, magna a malesuada facilisis, magna diam mattis odio, ac placerat erat erat a orci. Proin id metus nulla. In at nisi eu nisi elementum tincidunt eu at ipsum. Praesent condimentum varius quam, a rutrum sem ultricies eu. Quisque nisl sem, lobortis et laoreet mattis, faucibus at quam. Suspendisse potenti. Nunc eget purus eget metus convallis auctor eu in libero.
-
-Aliquam vulputate augue magna, sit amet volutpat odio adipiscing non. Nulla congue orci tortor, a facilisis felis faucibus sit amet. Sed aliquam nibh id ornare sagittis. Cras faucibus, est aliquam sollicitudin consectetur, elit urna eleifend nunc, consectetur malesuada odio nulla a justo. Aliquam id elit nisl. Fusce quis mauris massa. Etiam quis adipiscing ligula. Suspendisse nec mi posuere, gravida mi in, volutpat libero. Etiam tempus facilisis erat. Nulla eget porta turpis, id porttitor tellus. Aenean posuere sollicitudin condimentum. Vestibulum gravida dolor nec nisl pellentesque consequat. Nam et commodo arcu.
-
-Sed ultrices viverra condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec sodales mi, vel posuere sem. Nullam ultrices tellus enim, a iaculis urna facilisis ac. Donec euismod egestas nisi, sit amet viverra felis volutpat malesuada. Nunc tincidunt arcu nunc, ac commodo mauris tristique quis. Curabitur et risus fringilla, semper odio at, tristique enim. Suspendisse varius, augue et commodo feugiat, magna tellus vestibulum turpis, et aliquet odio erat eget arcu. Nam tincidunt porttitor tincidunt. Nullam metus sapien, pretium at nisi quis, malesuada cursus tortor. Sed interdum turpis ante, ac feugiat odio ultrices at. Cras ornare quam ipsum, at sagittis libero interdum at. Donec consequat dignissim risus, sed mollis urna rutrum vel. Morbi dapibus feugiat tellus dictum blandit.
-
-Nulla id erat a neque mattis dignissim sit amet eget nunc. Nulla facilisi. Praesent vitae venenatis nisi. Donec varius a mi vitae tristique. Vivamus vitae sapien ac justo malesuada adipiscing. Praesent neque risus, laoreet quis vehicula sit amet, ullamcorper id arcu. Maecenas eleifend quam in purus auctor molestie. In hac habitasse platea dictumst. Praesent non felis aliquam, vestibulum tortor eget, lobortis eros. Ut accumsan nisl sapien, eget pretium magna porttitor et. Nam hendrerit dui velit, ac pharetra ante tristique ac. Suspendisse vitae arcu justo.
-
-Ut sit amet mollis velit. Vivamus eget diam id diam convallis molestie et sagittis diam. Vestibulum pharetra tristique est vel adipiscing. In a est dignissim, auctor magna at, cursus leo. Maecenas varius augue non lacinia eleifend. Fusce tempor elementum rutrum. Donec dolor tortor, condimentum sed vehicula vitae, vehicula at leo. Sed malesuada pulvinar nibh, nec tristique orci semper sed. Aenean risus nisl, placerat vel euismod quis, posuere rhoncus dolor. In quis ante placerat, euismod risus ut, congue dui. Duis luctus semper nunc vel pulvinar. Donec consequat, lorem nec rutrum venenatis, nisi neque pulvinar libero, id venenatis massa magna quis nisl. Nam sit amet tincidunt nunc. Suspendisse sem eros, blandit quis luctus sit amet, feugiat eu tellus. Suspendisse ac consectetur risus. Etiam in hendrerit magna, id tempus eros.
-
-Morbi euismod suscipit suscipit. Phasellus a arcu ac turpis lacinia dictum. Mauris imperdiet commodo quam et condimentum. Aenean est ligula, hendrerit et varius quis, luctus et lorem. Aliquam vestibulum et magna nec aliquam. Suspendisse eu ultricies lectus. Duis vel lorem ut quam bibendum viverra. Curabitur scelerisque, mauris dignissim dignissim egestas, tortor eros pellentesque nunc, ac elementum justo libero sollicitudin erat. Suspendisse suscipit orci eu nibh elementum, non cursus turpis ullamcorper. Integer vehicula libero et tellus vulputate, eu aliquam diam placerat. Morbi pharetra, urna quis bibendum vulputate, nibh nisl dictum risus, et cursus tortor tortor id libero. Integer accumsan, enim sit amet blandit ultricies, diam elit condimentum justo, quis adipiscing dolor eros non neque. Vivamus commodo sem libero, sit amet tincidunt nisi accumsan vitae. Donec nec sem nunc. Phasellus sed placerat erat. Integer nisi lectus, cursus a est id, gravida aliquam purus.
-
-Good bye, and thank's for all the fish!
