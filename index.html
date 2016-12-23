@@ -14,13 +14,15 @@ layout: default
 <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl|append: '#disqus_thread' }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }} | 
+        <a class="post-meta" href="{{ post.url | prepend: site.baseurl | append: '#disqus_thread' }}">0 Comments</a> </p>
         <p>{{ post.description }}</p>
         <br/>
         <hr/>
       </li>
     {% endfor %}
 </ul>
+
 
 <!-- 修改名称是在静态网页上改，没发现config改的是啥 -->
