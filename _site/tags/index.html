@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Seven Times Have I...</title>
+    <title>tags</title>
     <meta name="description" content="What's my name?
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/">
+    <link rel="canonical" href="http://localhost:4000/tags/">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -62,53 +62,78 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h1>Seven Times Have I</h1>
-  <h2>Jing's Personal Website</h2> 
-  <br/>
-  <hr>
-  <br/>
-</div>
+        <div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">tags</h1>
+    <h5 class="post-description">Page of tags!</h5>
+  </header>
 
-<ul class="post-list">
-    
-      <li>
-        <h2><a class="post-title" href="/2015/07/15/title.html">a post with code</a></h2>
-        <p class="post-meta">July 15, 2015 — 11:09 |
-        <a class="post-meta" href="/2015/07/15/title.html#disqus_thread">0 Comments</a> </p>
-        <p>an example of a blog post with some code</p>
-        <br/>
-        <hr/>
-      </li>
-    
-      <li>
-        <h2><a class="post-title" href="/2015/05/15/title.html">a post with images</a></h2>
-        <p class="post-meta">May 15, 2015 — 17:01 |
-        <a class="post-meta" href="/2015/05/15/title.html#disqus_thread">0 Comments</a> </p>
-        <p>this is what included images could look like</p>
-        <br/>
-        <hr/>
-      </li>
-    
-      <li>
-        <h2><a class="post-title" href="/2015/03/15/title.html">a post with formatting and links</a></h2>
-        <p class="post-meta">March 15, 2015 — 12:40 |
-        <a class="post-meta" href="/2015/03/15/title.html#disqus_thread">0 Comments</a> </p>
-        <p>march & april, looking forward to summer</p>
-        <br/>
-        <hr/>
-      </li>
-    
-</ul>
+  <article class="post-content">
+    <!-- Get the tag name for every tag on the site and set them
+ to the `site_tags` variable. -->
 
 <!--
-<ul class="tags">
-    
-</ul>
+ 
  -->
 
-<!-- 修改名称是在静态网页上改，没发现config改的是啥 -->
+<!-- `tag_words` is a sorted array of the tag names. -->
+
+<!-- List of all tags -->
+<ul class="tags">
+
+
+<li>
+<a href="#favorite" class="tag">favorite
+<span>(1)</span>
+</a>
+</li>
+
+
+<li>
+<a href="#good" class="tag">good
+<span>(1)</span>
+</a>
+</li>
+
+</ul>
+
+<!-- Posts by Tag -->
+<div>
+
+
+<h3 id="favorite">favorite</h3>
+
+<div>
+<span style="float: left;">
+<a href="/2015/05/15/title.html">a post with images</a>
+</span>
+<span style="float: right;">
+15 May 2015
+</span>
+</div>
+<div style="clear: both;"></div>
+
+
+
+<h3 id="good">good</h3>
+
+<div>
+<span style="float: left;">
+<a href="/2015/03/15/title.html">a post with formatting and links</a>
+</span>
+<span style="float: right;">
+15 Mar 2015
+</span>
+</div>
+<div style="clear: both;"></div>
+
+
+</div>
+
+  </article>
+
+</div>
 
       </div>
     </div>

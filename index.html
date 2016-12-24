@@ -15,7 +15,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }} | 
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }} |
         <a class="post-meta" href="{{ post.url | prepend: site.baseurl | append: '#disqus_thread' }}">0 Comments</a> </p>
         <p>{{ post.description }}</p>
         <br/>
@@ -24,5 +24,12 @@ layout: default
     {% endfor %}
 </ul>
 
+<!--
+<ul class="tags">
+    {% for tag in post.tags %}
+    <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+    {% endfor %}
+</ul>
+ -->
 
 <!-- 修改名称是在静态网页上改，没发现config改的是啥 -->

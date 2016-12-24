@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: Soliloquy Of The Solipsist
 date: 2015-07-06 07:59:00
+tags: favorite good 
 ---
 I?    
 I walk alone;    
