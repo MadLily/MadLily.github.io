@@ -4,21 +4,26 @@
 ### T's Up! 
 - [Recent Updates](#recent-updates)
 - [Construnction Plan](#construction-plan)  
-- [Original Theme](#original-theme)  
+- [Previous Life](#message-from-previous-life)
 
 
-# Recent Updates
+# Recent Updates  
 
-# Construction Plan
+**2016-12-something**:   
+- Successfully "push" it to use. Horray!  
+- Added Disqus comment field  
+- Enabled tags for blog posts. Used some non-sense tages to test the functionality  
+  
+**2017-01-02**:  
+- Revised markdown file as a warm welcome! (Hopefully)  
 
-fooo barr
-fubar
+# Construction Plan  
+Foo says this is is going to be a nice bar.
 
 
+# Message from previous life 
+Ok, this is just the theme file employed :P
 
-<hr/>
-
-#Original Theme
 ## Features
 
 ### Collections
