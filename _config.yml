@@ -24,9 +24,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
+  digest:
     output: true
-    permalink: /poetry/:path/
+    permalink: /digest/:path/
 
 # Gems
 gems: [jekyll-paginate]
