@@ -18,8 +18,17 @@
 - Revised markdown file as a warm welcome! (Hopefully)  
 
 # Construction Plan  
-Foo says this is is going to be a nice bar.
+Foo says this is is going to be a nice bar.    
 
+**Structures**  
+- Figure out how categories can work together with tags and collections.  
+
+**Contents**  
+- Write MEANINGFUL posts to get started!  
+
+**Functional**  
+- Add ARCHIVE  
+- Add SUBSCRIPTION
 
 # Message from previous life 
 Ok, this is just the theme file employed :P
