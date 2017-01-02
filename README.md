@@ -1,12 +1,13 @@
 # Seven Times Have I...
-Jing's Personal Website
+<a href="https://madlily.github.io">Jing's Personal Website</a>  
+
+### T's Up! 
+- [Recent Updates](#recent-updates)
+- [Construnction Plan](#construction-plan)  
+- [Original Theme](#original-theme)  
 
 
-<a href="https://madlily.github.io">Here it is</a>  
-
-
-[Construnction Plan](#construction-plan)
-[Original Theme](#original-theme)  
+# Recent Updates
 
 # Construction Plan
 
