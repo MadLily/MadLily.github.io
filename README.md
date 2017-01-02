@@ -2,9 +2,11 @@
 Jing's Personal Website
 
 
-<a href="https://madlily.github.io">Here it is</a>
-[[Link-name1|# Construction Plan]]
-[Link-name2](# Original Theme)
+<a href="https://madlily.github.io">Here it is</a>  
+
+
+[Construnction Plan](#construction-plan)
+[Original Theme](#original-theme)  
 
 # Construction Plan
 
@@ -15,7 +17,7 @@ fubar
 
 <hr/>
 
-# Original Theme
+#Original Theme
 ## Features
 
 ### Collections
